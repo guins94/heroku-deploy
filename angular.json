@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroku-deploy"
+    }
+  },
+  "defaultProject": "heroku-deploy",
+  "cli": {
+    "analytics": "004c45df-407b-432f-8c53-6ce1cdc02e01"
+  }
 }
